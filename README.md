@@ -10,7 +10,7 @@ added libraries
 ------------------
 emu8086.inc
 
------------------------
+----------------------
 Sample Run
 --------------------
 ![Screenshot 2023-12-29 195640](https://github.com/AhmedElgabrey/desktop-tutorial/assets/111466797/91aa6388-0ac6-4278-b5c7-4121edb1a677)
